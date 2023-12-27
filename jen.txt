@@ -1,0 +1,9 @@
+Jenkins is an open-source automation server that helps automate the building, testing, and deploying of software. It's a Java-based platform with plugins for continuous integration. Jenkins is a server-based system that runs in servlet containers like Apache Tomcat. 
+
+Cloudwithease
+Jenkins is used to continuously create and test software projects. This makes it easier for developers and DevOps engineers to integrate changes to the project and for consumers to get a new build. 
+Jenkins is a leading open-source automation server. It's used to implement CI/CD workflows, called pipelines. 
+Ask a follow up
+Is Jenkins free or paid?
+Is Jenkins easy to learn?
+Jenkins tutorial
